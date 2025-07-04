@@ -10,8 +10,8 @@ const config = {
   // 有道翻译API配置
   youdao: {
     apiUrl: "https://openapi.youdao.com/api",
-    appKey: "671d358cca65a9e7",
-    appSecret: "VhHlS9TSYNxc6bO4AbA2c4maaw8GsxXU",
+    appKey: "",
+    appSecret: "",
   },
 
   // MySQL数据库配置
